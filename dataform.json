@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "bigquery-dbt-project-406711",
+  "defaultLocation": "australia-southeast1"
+}
+    
